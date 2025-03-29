@@ -39,6 +39,15 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - [Calendar link](https://lu.ma/e2b)
 </details>
 
+<details>
+  <summary><b>AI Akce.cz</b> - Free list of AI events.</summary>
+    &nbsp;
+  
+  - Anyone can submit his own AI event
+  - Managed by Anite Perera (Accenture) 
+  - [Website]([https://www.aiakce.cz/])
+</details>
+
 ## 🤝 Organizations and Communities
 
 <details>
@@ -101,6 +110,17 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - Product management platform with strong tech community
   - Regular workshops and knowledge-sharing sessions
   - [Website](https://talkbase.io/company/productboard/events)
+</details>
+
+<details>
+  <summary><b>AI Monday</b> - AI Meetups AI events for wide range of AI professionals.</summary>
+    &nbsp;
+  
+  - Meetups are happening monthyl every third Monday 
+  - Events happen in Prague and Pilsen (every first Monday in month)
+  - Organized by Jan Kulisek
+  - [Linkedin profile]([https://www.linkedin.com/in/jankulisek//])
+  - [Website]([https://www.aimonday.cz/])
 </details>
 
 ## 👨‍💻 People
